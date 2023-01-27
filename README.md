@@ -15,7 +15,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/thelinuxchoic/shellphish
 cd shellphish
 python2 shellphish.py
 ```
